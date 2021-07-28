@@ -1,0 +1,16 @@
+C:\Users\bhdrg\Desktop\csharp-basics\2-operators\bin\Debug\net5.0\2-operators.exe
+C:\Users\bhdrg\Desktop\csharp-basics\2-operators\bin\Debug\net5.0\2-operators.deps.json
+C:\Users\bhdrg\Desktop\csharp-basics\2-operators\bin\Debug\net5.0\2-operators.runtimeconfig.json
+C:\Users\bhdrg\Desktop\csharp-basics\2-operators\bin\Debug\net5.0\2-operators.runtimeconfig.dev.json
+C:\Users\bhdrg\Desktop\csharp-basics\2-operators\bin\Debug\net5.0\2-operators.dll
+C:\Users\bhdrg\Desktop\csharp-basics\2-operators\bin\Debug\net5.0\ref\2-operators.dll
+C:\Users\bhdrg\Desktop\csharp-basics\2-operators\bin\Debug\net5.0\2-operators.pdb
+C:\Users\bhdrg\Desktop\csharp-basics\2-operators\obj\Debug\net5.0\2-operators.csproj.AssemblyReference.cache
+C:\Users\bhdrg\Desktop\csharp-basics\2-operators\obj\Debug\net5.0\2-operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhdrg\Desktop\csharp-basics\2-operators\obj\Debug\net5.0\2-operators.AssemblyInfoInputs.cache
+C:\Users\bhdrg\Desktop\csharp-basics\2-operators\obj\Debug\net5.0\2-operators.AssemblyInfo.cs
+C:\Users\bhdrg\Desktop\csharp-basics\2-operators\obj\Debug\net5.0\2-operators.csproj.CoreCompileInputs.cache
+C:\Users\bhdrg\Desktop\csharp-basics\2-operators\obj\Debug\net5.0\2-operators.dll
+C:\Users\bhdrg\Desktop\csharp-basics\2-operators\obj\Debug\net5.0\ref\2-operators.dll
+C:\Users\bhdrg\Desktop\csharp-basics\2-operators\obj\Debug\net5.0\2-operators.pdb
+C:\Users\bhdrg\Desktop\csharp-basics\2-operators\obj\Debug\net5.0\2-operators.genruntimeconfig.cache
