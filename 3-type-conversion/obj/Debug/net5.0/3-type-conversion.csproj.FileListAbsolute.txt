@@ -1,0 +1,16 @@
+C:\Users\bhdrg\Desktop\csharp-basics\3-type-conversion\bin\Debug\net5.0\3-type-conversion.exe
+C:\Users\bhdrg\Desktop\csharp-basics\3-type-conversion\bin\Debug\net5.0\3-type-conversion.deps.json
+C:\Users\bhdrg\Desktop\csharp-basics\3-type-conversion\bin\Debug\net5.0\3-type-conversion.runtimeconfig.json
+C:\Users\bhdrg\Desktop\csharp-basics\3-type-conversion\bin\Debug\net5.0\3-type-conversion.runtimeconfig.dev.json
+C:\Users\bhdrg\Desktop\csharp-basics\3-type-conversion\bin\Debug\net5.0\3-type-conversion.dll
+C:\Users\bhdrg\Desktop\csharp-basics\3-type-conversion\bin\Debug\net5.0\ref\3-type-conversion.dll
+C:\Users\bhdrg\Desktop\csharp-basics\3-type-conversion\bin\Debug\net5.0\3-type-conversion.pdb
+C:\Users\bhdrg\Desktop\csharp-basics\3-type-conversion\obj\Debug\net5.0\3-type-conversion.csproj.AssemblyReference.cache
+C:\Users\bhdrg\Desktop\csharp-basics\3-type-conversion\obj\Debug\net5.0\3-type-conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhdrg\Desktop\csharp-basics\3-type-conversion\obj\Debug\net5.0\3-type-conversion.AssemblyInfoInputs.cache
+C:\Users\bhdrg\Desktop\csharp-basics\3-type-conversion\obj\Debug\net5.0\3-type-conversion.AssemblyInfo.cs
+C:\Users\bhdrg\Desktop\csharp-basics\3-type-conversion\obj\Debug\net5.0\3-type-conversion.csproj.CoreCompileInputs.cache
+C:\Users\bhdrg\Desktop\csharp-basics\3-type-conversion\obj\Debug\net5.0\3-type-conversion.dll
+C:\Users\bhdrg\Desktop\csharp-basics\3-type-conversion\obj\Debug\net5.0\ref\3-type-conversion.dll
+C:\Users\bhdrg\Desktop\csharp-basics\3-type-conversion\obj\Debug\net5.0\3-type-conversion.pdb
+C:\Users\bhdrg\Desktop\csharp-basics\3-type-conversion\obj\Debug\net5.0\3-type-conversion.genruntimeconfig.cache
