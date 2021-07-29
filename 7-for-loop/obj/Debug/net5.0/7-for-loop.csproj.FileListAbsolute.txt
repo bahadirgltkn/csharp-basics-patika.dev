@@ -1,0 +1,16 @@
+C:\Users\bhdrg\Desktop\csharp-basics\7-for-loop\bin\Debug\net5.0\7-for-loop.exe
+C:\Users\bhdrg\Desktop\csharp-basics\7-for-loop\bin\Debug\net5.0\7-for-loop.deps.json
+C:\Users\bhdrg\Desktop\csharp-basics\7-for-loop\bin\Debug\net5.0\7-for-loop.runtimeconfig.json
+C:\Users\bhdrg\Desktop\csharp-basics\7-for-loop\bin\Debug\net5.0\7-for-loop.runtimeconfig.dev.json
+C:\Users\bhdrg\Desktop\csharp-basics\7-for-loop\bin\Debug\net5.0\7-for-loop.dll
+C:\Users\bhdrg\Desktop\csharp-basics\7-for-loop\bin\Debug\net5.0\ref\7-for-loop.dll
+C:\Users\bhdrg\Desktop\csharp-basics\7-for-loop\bin\Debug\net5.0\7-for-loop.pdb
+C:\Users\bhdrg\Desktop\csharp-basics\7-for-loop\obj\Debug\net5.0\7-for-loop.csproj.AssemblyReference.cache
+C:\Users\bhdrg\Desktop\csharp-basics\7-for-loop\obj\Debug\net5.0\7-for-loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhdrg\Desktop\csharp-basics\7-for-loop\obj\Debug\net5.0\7-for-loop.AssemblyInfoInputs.cache
+C:\Users\bhdrg\Desktop\csharp-basics\7-for-loop\obj\Debug\net5.0\7-for-loop.AssemblyInfo.cs
+C:\Users\bhdrg\Desktop\csharp-basics\7-for-loop\obj\Debug\net5.0\7-for-loop.csproj.CoreCompileInputs.cache
+C:\Users\bhdrg\Desktop\csharp-basics\7-for-loop\obj\Debug\net5.0\7-for-loop.dll
+C:\Users\bhdrg\Desktop\csharp-basics\7-for-loop\obj\Debug\net5.0\ref\7-for-loop.dll
+C:\Users\bhdrg\Desktop\csharp-basics\7-for-loop\obj\Debug\net5.0\7-for-loop.pdb
+C:\Users\bhdrg\Desktop\csharp-basics\7-for-loop\obj\Debug\net5.0\7-for-loop.genruntimeconfig.cache
