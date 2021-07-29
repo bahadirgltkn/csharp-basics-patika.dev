@@ -1,0 +1,16 @@
+C:\Users\bhdrg\Desktop\csharp-basics\4-error handling\bin\Debug\net5.0\4-error handling.exe
+C:\Users\bhdrg\Desktop\csharp-basics\4-error handling\bin\Debug\net5.0\4-error handling.deps.json
+C:\Users\bhdrg\Desktop\csharp-basics\4-error handling\bin\Debug\net5.0\4-error handling.runtimeconfig.json
+C:\Users\bhdrg\Desktop\csharp-basics\4-error handling\bin\Debug\net5.0\4-error handling.runtimeconfig.dev.json
+C:\Users\bhdrg\Desktop\csharp-basics\4-error handling\bin\Debug\net5.0\4-error handling.dll
+C:\Users\bhdrg\Desktop\csharp-basics\4-error handling\bin\Debug\net5.0\ref\4-error handling.dll
+C:\Users\bhdrg\Desktop\csharp-basics\4-error handling\bin\Debug\net5.0\4-error handling.pdb
+C:\Users\bhdrg\Desktop\csharp-basics\4-error handling\obj\Debug\net5.0\4-error handling.csproj.AssemblyReference.cache
+C:\Users\bhdrg\Desktop\csharp-basics\4-error handling\obj\Debug\net5.0\4-error handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhdrg\Desktop\csharp-basics\4-error handling\obj\Debug\net5.0\4-error handling.AssemblyInfoInputs.cache
+C:\Users\bhdrg\Desktop\csharp-basics\4-error handling\obj\Debug\net5.0\4-error handling.AssemblyInfo.cs
+C:\Users\bhdrg\Desktop\csharp-basics\4-error handling\obj\Debug\net5.0\4-error handling.csproj.CoreCompileInputs.cache
+C:\Users\bhdrg\Desktop\csharp-basics\4-error handling\obj\Debug\net5.0\4-error handling.dll
+C:\Users\bhdrg\Desktop\csharp-basics\4-error handling\obj\Debug\net5.0\ref\4-error handling.dll
+C:\Users\bhdrg\Desktop\csharp-basics\4-error handling\obj\Debug\net5.0\4-error handling.pdb
+C:\Users\bhdrg\Desktop\csharp-basics\4-error handling\obj\Debug\net5.0\4-error handling.genruntimeconfig.cache
