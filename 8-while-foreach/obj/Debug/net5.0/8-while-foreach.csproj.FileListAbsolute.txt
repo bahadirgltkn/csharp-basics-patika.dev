@@ -1,0 +1,16 @@
+C:\Users\bhdrg\Desktop\csharp-basics\8-while-foreach\bin\Debug\net5.0\8-while-foreach.exe
+C:\Users\bhdrg\Desktop\csharp-basics\8-while-foreach\bin\Debug\net5.0\8-while-foreach.deps.json
+C:\Users\bhdrg\Desktop\csharp-basics\8-while-foreach\bin\Debug\net5.0\8-while-foreach.runtimeconfig.json
+C:\Users\bhdrg\Desktop\csharp-basics\8-while-foreach\bin\Debug\net5.0\8-while-foreach.runtimeconfig.dev.json
+C:\Users\bhdrg\Desktop\csharp-basics\8-while-foreach\bin\Debug\net5.0\8-while-foreach.dll
+C:\Users\bhdrg\Desktop\csharp-basics\8-while-foreach\bin\Debug\net5.0\ref\8-while-foreach.dll
+C:\Users\bhdrg\Desktop\csharp-basics\8-while-foreach\bin\Debug\net5.0\8-while-foreach.pdb
+C:\Users\bhdrg\Desktop\csharp-basics\8-while-foreach\obj\Debug\net5.0\8-while-foreach.csproj.AssemblyReference.cache
+C:\Users\bhdrg\Desktop\csharp-basics\8-while-foreach\obj\Debug\net5.0\8-while-foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhdrg\Desktop\csharp-basics\8-while-foreach\obj\Debug\net5.0\8-while-foreach.AssemblyInfoInputs.cache
+C:\Users\bhdrg\Desktop\csharp-basics\8-while-foreach\obj\Debug\net5.0\8-while-foreach.AssemblyInfo.cs
+C:\Users\bhdrg\Desktop\csharp-basics\8-while-foreach\obj\Debug\net5.0\8-while-foreach.csproj.CoreCompileInputs.cache
+C:\Users\bhdrg\Desktop\csharp-basics\8-while-foreach\obj\Debug\net5.0\8-while-foreach.dll
+C:\Users\bhdrg\Desktop\csharp-basics\8-while-foreach\obj\Debug\net5.0\ref\8-while-foreach.dll
+C:\Users\bhdrg\Desktop\csharp-basics\8-while-foreach\obj\Debug\net5.0\8-while-foreach.pdb
+C:\Users\bhdrg\Desktop\csharp-basics\8-while-foreach\obj\Debug\net5.0\8-while-foreach.genruntimeconfig.cache
