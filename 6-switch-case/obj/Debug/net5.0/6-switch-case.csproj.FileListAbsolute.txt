@@ -1,0 +1,16 @@
+C:\Users\bhdrg\Desktop\csharp-basics\6-switch-case\bin\Debug\net5.0\6-switch-case.exe
+C:\Users\bhdrg\Desktop\csharp-basics\6-switch-case\bin\Debug\net5.0\6-switch-case.deps.json
+C:\Users\bhdrg\Desktop\csharp-basics\6-switch-case\bin\Debug\net5.0\6-switch-case.runtimeconfig.json
+C:\Users\bhdrg\Desktop\csharp-basics\6-switch-case\bin\Debug\net5.0\6-switch-case.runtimeconfig.dev.json
+C:\Users\bhdrg\Desktop\csharp-basics\6-switch-case\bin\Debug\net5.0\6-switch-case.dll
+C:\Users\bhdrg\Desktop\csharp-basics\6-switch-case\bin\Debug\net5.0\ref\6-switch-case.dll
+C:\Users\bhdrg\Desktop\csharp-basics\6-switch-case\bin\Debug\net5.0\6-switch-case.pdb
+C:\Users\bhdrg\Desktop\csharp-basics\6-switch-case\obj\Debug\net5.0\6-switch-case.csproj.AssemblyReference.cache
+C:\Users\bhdrg\Desktop\csharp-basics\6-switch-case\obj\Debug\net5.0\6-switch-case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhdrg\Desktop\csharp-basics\6-switch-case\obj\Debug\net5.0\6-switch-case.AssemblyInfoInputs.cache
+C:\Users\bhdrg\Desktop\csharp-basics\6-switch-case\obj\Debug\net5.0\6-switch-case.AssemblyInfo.cs
+C:\Users\bhdrg\Desktop\csharp-basics\6-switch-case\obj\Debug\net5.0\6-switch-case.csproj.CoreCompileInputs.cache
+C:\Users\bhdrg\Desktop\csharp-basics\6-switch-case\obj\Debug\net5.0\6-switch-case.dll
+C:\Users\bhdrg\Desktop\csharp-basics\6-switch-case\obj\Debug\net5.0\ref\6-switch-case.dll
+C:\Users\bhdrg\Desktop\csharp-basics\6-switch-case\obj\Debug\net5.0\6-switch-case.pdb
+C:\Users\bhdrg\Desktop\csharp-basics\6-switch-case\obj\Debug\net5.0\6-switch-case.genruntimeconfig.cache
