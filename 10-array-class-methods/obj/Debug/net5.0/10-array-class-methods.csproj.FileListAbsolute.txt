@@ -1,0 +1,16 @@
+C:\Users\bhdrg\Desktop\csharp-basics\10-array-class-methods\bin\Debug\net5.0\10-array-class-methods.exe
+C:\Users\bhdrg\Desktop\csharp-basics\10-array-class-methods\bin\Debug\net5.0\10-array-class-methods.deps.json
+C:\Users\bhdrg\Desktop\csharp-basics\10-array-class-methods\bin\Debug\net5.0\10-array-class-methods.runtimeconfig.json
+C:\Users\bhdrg\Desktop\csharp-basics\10-array-class-methods\bin\Debug\net5.0\10-array-class-methods.runtimeconfig.dev.json
+C:\Users\bhdrg\Desktop\csharp-basics\10-array-class-methods\bin\Debug\net5.0\10-array-class-methods.dll
+C:\Users\bhdrg\Desktop\csharp-basics\10-array-class-methods\bin\Debug\net5.0\ref\10-array-class-methods.dll
+C:\Users\bhdrg\Desktop\csharp-basics\10-array-class-methods\bin\Debug\net5.0\10-array-class-methods.pdb
+C:\Users\bhdrg\Desktop\csharp-basics\10-array-class-methods\obj\Debug\net5.0\10-array-class-methods.csproj.AssemblyReference.cache
+C:\Users\bhdrg\Desktop\csharp-basics\10-array-class-methods\obj\Debug\net5.0\10-array-class-methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhdrg\Desktop\csharp-basics\10-array-class-methods\obj\Debug\net5.0\10-array-class-methods.AssemblyInfoInputs.cache
+C:\Users\bhdrg\Desktop\csharp-basics\10-array-class-methods\obj\Debug\net5.0\10-array-class-methods.AssemblyInfo.cs
+C:\Users\bhdrg\Desktop\csharp-basics\10-array-class-methods\obj\Debug\net5.0\10-array-class-methods.csproj.CoreCompileInputs.cache
+C:\Users\bhdrg\Desktop\csharp-basics\10-array-class-methods\obj\Debug\net5.0\10-array-class-methods.dll
+C:\Users\bhdrg\Desktop\csharp-basics\10-array-class-methods\obj\Debug\net5.0\ref\10-array-class-methods.dll
+C:\Users\bhdrg\Desktop\csharp-basics\10-array-class-methods\obj\Debug\net5.0\10-array-class-methods.pdb
+C:\Users\bhdrg\Desktop\csharp-basics\10-array-class-methods\obj\Debug\net5.0\10-array-class-methods.genruntimeconfig.cache
