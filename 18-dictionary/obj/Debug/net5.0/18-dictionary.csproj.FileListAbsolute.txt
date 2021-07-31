@@ -1,0 +1,16 @@
+C:\Users\bhdrg\Desktop\csharp-basics\18-dictionary\bin\Debug\net5.0\18-dictionary.exe
+C:\Users\bhdrg\Desktop\csharp-basics\18-dictionary\bin\Debug\net5.0\18-dictionary.deps.json
+C:\Users\bhdrg\Desktop\csharp-basics\18-dictionary\bin\Debug\net5.0\18-dictionary.runtimeconfig.json
+C:\Users\bhdrg\Desktop\csharp-basics\18-dictionary\bin\Debug\net5.0\18-dictionary.runtimeconfig.dev.json
+C:\Users\bhdrg\Desktop\csharp-basics\18-dictionary\bin\Debug\net5.0\18-dictionary.dll
+C:\Users\bhdrg\Desktop\csharp-basics\18-dictionary\bin\Debug\net5.0\ref\18-dictionary.dll
+C:\Users\bhdrg\Desktop\csharp-basics\18-dictionary\bin\Debug\net5.0\18-dictionary.pdb
+C:\Users\bhdrg\Desktop\csharp-basics\18-dictionary\obj\Debug\net5.0\18-dictionary.csproj.AssemblyReference.cache
+C:\Users\bhdrg\Desktop\csharp-basics\18-dictionary\obj\Debug\net5.0\18-dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhdrg\Desktop\csharp-basics\18-dictionary\obj\Debug\net5.0\18-dictionary.AssemblyInfoInputs.cache
+C:\Users\bhdrg\Desktop\csharp-basics\18-dictionary\obj\Debug\net5.0\18-dictionary.AssemblyInfo.cs
+C:\Users\bhdrg\Desktop\csharp-basics\18-dictionary\obj\Debug\net5.0\18-dictionary.csproj.CoreCompileInputs.cache
+C:\Users\bhdrg\Desktop\csharp-basics\18-dictionary\obj\Debug\net5.0\18-dictionary.dll
+C:\Users\bhdrg\Desktop\csharp-basics\18-dictionary\obj\Debug\net5.0\ref\18-dictionary.dll
+C:\Users\bhdrg\Desktop\csharp-basics\18-dictionary\obj\Debug\net5.0\18-dictionary.pdb
+C:\Users\bhdrg\Desktop\csharp-basics\18-dictionary\obj\Debug\net5.0\18-dictionary.genruntimeconfig.cache
