@@ -1,0 +1,16 @@
+C:\Users\bhdrg\Desktop\csharp-basics\15-datetime-math\bin\Debug\net5.0\15-datetime-math.exe
+C:\Users\bhdrg\Desktop\csharp-basics\15-datetime-math\bin\Debug\net5.0\15-datetime-math.deps.json
+C:\Users\bhdrg\Desktop\csharp-basics\15-datetime-math\bin\Debug\net5.0\15-datetime-math.runtimeconfig.json
+C:\Users\bhdrg\Desktop\csharp-basics\15-datetime-math\bin\Debug\net5.0\15-datetime-math.runtimeconfig.dev.json
+C:\Users\bhdrg\Desktop\csharp-basics\15-datetime-math\bin\Debug\net5.0\15-datetime-math.dll
+C:\Users\bhdrg\Desktop\csharp-basics\15-datetime-math\bin\Debug\net5.0\ref\15-datetime-math.dll
+C:\Users\bhdrg\Desktop\csharp-basics\15-datetime-math\bin\Debug\net5.0\15-datetime-math.pdb
+C:\Users\bhdrg\Desktop\csharp-basics\15-datetime-math\obj\Debug\net5.0\15-datetime-math.csproj.AssemblyReference.cache
+C:\Users\bhdrg\Desktop\csharp-basics\15-datetime-math\obj\Debug\net5.0\15-datetime-math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhdrg\Desktop\csharp-basics\15-datetime-math\obj\Debug\net5.0\15-datetime-math.AssemblyInfoInputs.cache
+C:\Users\bhdrg\Desktop\csharp-basics\15-datetime-math\obj\Debug\net5.0\15-datetime-math.AssemblyInfo.cs
+C:\Users\bhdrg\Desktop\csharp-basics\15-datetime-math\obj\Debug\net5.0\15-datetime-math.csproj.CoreCompileInputs.cache
+C:\Users\bhdrg\Desktop\csharp-basics\15-datetime-math\obj\Debug\net5.0\15-datetime-math.dll
+C:\Users\bhdrg\Desktop\csharp-basics\15-datetime-math\obj\Debug\net5.0\ref\15-datetime-math.dll
+C:\Users\bhdrg\Desktop\csharp-basics\15-datetime-math\obj\Debug\net5.0\15-datetime-math.pdb
+C:\Users\bhdrg\Desktop\csharp-basics\15-datetime-math\obj\Debug\net5.0\15-datetime-math.genruntimeconfig.cache
