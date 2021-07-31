@@ -1,0 +1,16 @@
+C:\Users\bhdrg\Desktop\csharp-basics\16-generic-list\bin\Debug\net5.0\16-generic-list.exe
+C:\Users\bhdrg\Desktop\csharp-basics\16-generic-list\bin\Debug\net5.0\16-generic-list.deps.json
+C:\Users\bhdrg\Desktop\csharp-basics\16-generic-list\bin\Debug\net5.0\16-generic-list.runtimeconfig.json
+C:\Users\bhdrg\Desktop\csharp-basics\16-generic-list\bin\Debug\net5.0\16-generic-list.runtimeconfig.dev.json
+C:\Users\bhdrg\Desktop\csharp-basics\16-generic-list\bin\Debug\net5.0\16-generic-list.dll
+C:\Users\bhdrg\Desktop\csharp-basics\16-generic-list\bin\Debug\net5.0\ref\16-generic-list.dll
+C:\Users\bhdrg\Desktop\csharp-basics\16-generic-list\bin\Debug\net5.0\16-generic-list.pdb
+C:\Users\bhdrg\Desktop\csharp-basics\16-generic-list\obj\Debug\net5.0\16-generic-list.csproj.AssemblyReference.cache
+C:\Users\bhdrg\Desktop\csharp-basics\16-generic-list\obj\Debug\net5.0\16-generic-list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhdrg\Desktop\csharp-basics\16-generic-list\obj\Debug\net5.0\16-generic-list.AssemblyInfoInputs.cache
+C:\Users\bhdrg\Desktop\csharp-basics\16-generic-list\obj\Debug\net5.0\16-generic-list.AssemblyInfo.cs
+C:\Users\bhdrg\Desktop\csharp-basics\16-generic-list\obj\Debug\net5.0\16-generic-list.csproj.CoreCompileInputs.cache
+C:\Users\bhdrg\Desktop\csharp-basics\16-generic-list\obj\Debug\net5.0\16-generic-list.dll
+C:\Users\bhdrg\Desktop\csharp-basics\16-generic-list\obj\Debug\net5.0\ref\16-generic-list.dll
+C:\Users\bhdrg\Desktop\csharp-basics\16-generic-list\obj\Debug\net5.0\16-generic-list.pdb
+C:\Users\bhdrg\Desktop\csharp-basics\16-generic-list\obj\Debug\net5.0\16-generic-list.genruntimeconfig.cache
