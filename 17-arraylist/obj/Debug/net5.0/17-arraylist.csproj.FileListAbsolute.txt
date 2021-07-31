@@ -1,0 +1,16 @@
+C:\Users\bhdrg\Desktop\csharp-basics\17-arraylist\bin\Debug\net5.0\17-arraylist.exe
+C:\Users\bhdrg\Desktop\csharp-basics\17-arraylist\bin\Debug\net5.0\17-arraylist.deps.json
+C:\Users\bhdrg\Desktop\csharp-basics\17-arraylist\bin\Debug\net5.0\17-arraylist.runtimeconfig.json
+C:\Users\bhdrg\Desktop\csharp-basics\17-arraylist\bin\Debug\net5.0\17-arraylist.runtimeconfig.dev.json
+C:\Users\bhdrg\Desktop\csharp-basics\17-arraylist\bin\Debug\net5.0\17-arraylist.dll
+C:\Users\bhdrg\Desktop\csharp-basics\17-arraylist\bin\Debug\net5.0\ref\17-arraylist.dll
+C:\Users\bhdrg\Desktop\csharp-basics\17-arraylist\bin\Debug\net5.0\17-arraylist.pdb
+C:\Users\bhdrg\Desktop\csharp-basics\17-arraylist\obj\Debug\net5.0\17-arraylist.csproj.AssemblyReference.cache
+C:\Users\bhdrg\Desktop\csharp-basics\17-arraylist\obj\Debug\net5.0\17-arraylist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhdrg\Desktop\csharp-basics\17-arraylist\obj\Debug\net5.0\17-arraylist.AssemblyInfoInputs.cache
+C:\Users\bhdrg\Desktop\csharp-basics\17-arraylist\obj\Debug\net5.0\17-arraylist.AssemblyInfo.cs
+C:\Users\bhdrg\Desktop\csharp-basics\17-arraylist\obj\Debug\net5.0\17-arraylist.csproj.CoreCompileInputs.cache
+C:\Users\bhdrg\Desktop\csharp-basics\17-arraylist\obj\Debug\net5.0\17-arraylist.dll
+C:\Users\bhdrg\Desktop\csharp-basics\17-arraylist\obj\Debug\net5.0\ref\17-arraylist.dll
+C:\Users\bhdrg\Desktop\csharp-basics\17-arraylist\obj\Debug\net5.0\17-arraylist.pdb
+C:\Users\bhdrg\Desktop\csharp-basics\17-arraylist\obj\Debug\net5.0\17-arraylist.genruntimeconfig.cache
