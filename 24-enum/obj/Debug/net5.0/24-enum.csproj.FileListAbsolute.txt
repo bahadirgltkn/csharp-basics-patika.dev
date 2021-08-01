@@ -1,0 +1,16 @@
+C:\Users\bhdrg\Desktop\csharp-basics\24-enum\obj\Debug\net5.0\24-enum.csproj.AssemblyReference.cache
+C:\Users\bhdrg\Desktop\csharp-basics\24-enum\obj\Debug\net5.0\24-enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhdrg\Desktop\csharp-basics\24-enum\obj\Debug\net5.0\24-enum.AssemblyInfoInputs.cache
+C:\Users\bhdrg\Desktop\csharp-basics\24-enum\obj\Debug\net5.0\24-enum.AssemblyInfo.cs
+C:\Users\bhdrg\Desktop\csharp-basics\24-enum\obj\Debug\net5.0\24-enum.csproj.CoreCompileInputs.cache
+C:\Users\bhdrg\Desktop\csharp-basics\24-enum\bin\Debug\net5.0\24-enum.exe
+C:\Users\bhdrg\Desktop\csharp-basics\24-enum\bin\Debug\net5.0\24-enum.deps.json
+C:\Users\bhdrg\Desktop\csharp-basics\24-enum\bin\Debug\net5.0\24-enum.runtimeconfig.json
+C:\Users\bhdrg\Desktop\csharp-basics\24-enum\bin\Debug\net5.0\24-enum.runtimeconfig.dev.json
+C:\Users\bhdrg\Desktop\csharp-basics\24-enum\bin\Debug\net5.0\24-enum.dll
+C:\Users\bhdrg\Desktop\csharp-basics\24-enum\bin\Debug\net5.0\ref\24-enum.dll
+C:\Users\bhdrg\Desktop\csharp-basics\24-enum\bin\Debug\net5.0\24-enum.pdb
+C:\Users\bhdrg\Desktop\csharp-basics\24-enum\obj\Debug\net5.0\24-enum.dll
+C:\Users\bhdrg\Desktop\csharp-basics\24-enum\obj\Debug\net5.0\ref\24-enum.dll
+C:\Users\bhdrg\Desktop\csharp-basics\24-enum\obj\Debug\net5.0\24-enum.pdb
+C:\Users\bhdrg\Desktop\csharp-basics\24-enum\obj\Debug\net5.0\24-enum.genruntimeconfig.cache
