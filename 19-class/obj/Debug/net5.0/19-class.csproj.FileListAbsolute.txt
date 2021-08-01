@@ -1,0 +1,16 @@
+C:\Users\bhdrg\Desktop\csharp-basics\19-class\bin\Debug\net5.0\19-class.exe
+C:\Users\bhdrg\Desktop\csharp-basics\19-class\bin\Debug\net5.0\19-class.deps.json
+C:\Users\bhdrg\Desktop\csharp-basics\19-class\bin\Debug\net5.0\19-class.runtimeconfig.json
+C:\Users\bhdrg\Desktop\csharp-basics\19-class\bin\Debug\net5.0\19-class.runtimeconfig.dev.json
+C:\Users\bhdrg\Desktop\csharp-basics\19-class\bin\Debug\net5.0\19-class.dll
+C:\Users\bhdrg\Desktop\csharp-basics\19-class\bin\Debug\net5.0\ref\19-class.dll
+C:\Users\bhdrg\Desktop\csharp-basics\19-class\bin\Debug\net5.0\19-class.pdb
+C:\Users\bhdrg\Desktop\csharp-basics\19-class\obj\Debug\net5.0\19-class.csproj.AssemblyReference.cache
+C:\Users\bhdrg\Desktop\csharp-basics\19-class\obj\Debug\net5.0\19-class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhdrg\Desktop\csharp-basics\19-class\obj\Debug\net5.0\19-class.AssemblyInfoInputs.cache
+C:\Users\bhdrg\Desktop\csharp-basics\19-class\obj\Debug\net5.0\19-class.AssemblyInfo.cs
+C:\Users\bhdrg\Desktop\csharp-basics\19-class\obj\Debug\net5.0\19-class.csproj.CoreCompileInputs.cache
+C:\Users\bhdrg\Desktop\csharp-basics\19-class\obj\Debug\net5.0\19-class.dll
+C:\Users\bhdrg\Desktop\csharp-basics\19-class\obj\Debug\net5.0\ref\19-class.dll
+C:\Users\bhdrg\Desktop\csharp-basics\19-class\obj\Debug\net5.0\19-class.pdb
+C:\Users\bhdrg\Desktop\csharp-basics\19-class\obj\Debug\net5.0\19-class.genruntimeconfig.cache
