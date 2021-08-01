@@ -1,0 +1,16 @@
+C:\Users\bhdrg\Desktop\csharp-basics\20-constructors\bin\Debug\net5.0\20-constructors.exe
+C:\Users\bhdrg\Desktop\csharp-basics\20-constructors\bin\Debug\net5.0\20-constructors.deps.json
+C:\Users\bhdrg\Desktop\csharp-basics\20-constructors\bin\Debug\net5.0\20-constructors.runtimeconfig.json
+C:\Users\bhdrg\Desktop\csharp-basics\20-constructors\bin\Debug\net5.0\20-constructors.runtimeconfig.dev.json
+C:\Users\bhdrg\Desktop\csharp-basics\20-constructors\bin\Debug\net5.0\20-constructors.dll
+C:\Users\bhdrg\Desktop\csharp-basics\20-constructors\bin\Debug\net5.0\ref\20-constructors.dll
+C:\Users\bhdrg\Desktop\csharp-basics\20-constructors\bin\Debug\net5.0\20-constructors.pdb
+C:\Users\bhdrg\Desktop\csharp-basics\20-constructors\obj\Debug\net5.0\20-constructors.csproj.AssemblyReference.cache
+C:\Users\bhdrg\Desktop\csharp-basics\20-constructors\obj\Debug\net5.0\20-constructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhdrg\Desktop\csharp-basics\20-constructors\obj\Debug\net5.0\20-constructors.AssemblyInfoInputs.cache
+C:\Users\bhdrg\Desktop\csharp-basics\20-constructors\obj\Debug\net5.0\20-constructors.AssemblyInfo.cs
+C:\Users\bhdrg\Desktop\csharp-basics\20-constructors\obj\Debug\net5.0\20-constructors.csproj.CoreCompileInputs.cache
+C:\Users\bhdrg\Desktop\csharp-basics\20-constructors\obj\Debug\net5.0\20-constructors.dll
+C:\Users\bhdrg\Desktop\csharp-basics\20-constructors\obj\Debug\net5.0\ref\20-constructors.dll
+C:\Users\bhdrg\Desktop\csharp-basics\20-constructors\obj\Debug\net5.0\20-constructors.pdb
+C:\Users\bhdrg\Desktop\csharp-basics\20-constructors\obj\Debug\net5.0\20-constructors.genruntimeconfig.cache
