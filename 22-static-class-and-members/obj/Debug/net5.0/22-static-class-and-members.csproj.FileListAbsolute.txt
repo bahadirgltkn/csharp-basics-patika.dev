@@ -1,0 +1,16 @@
+C:\Users\bhdrg\Desktop\csharp-basics\22-static-class-and-members\bin\Debug\net5.0\22-static-class-and-members.exe
+C:\Users\bhdrg\Desktop\csharp-basics\22-static-class-and-members\bin\Debug\net5.0\22-static-class-and-members.deps.json
+C:\Users\bhdrg\Desktop\csharp-basics\22-static-class-and-members\bin\Debug\net5.0\22-static-class-and-members.runtimeconfig.json
+C:\Users\bhdrg\Desktop\csharp-basics\22-static-class-and-members\bin\Debug\net5.0\22-static-class-and-members.runtimeconfig.dev.json
+C:\Users\bhdrg\Desktop\csharp-basics\22-static-class-and-members\bin\Debug\net5.0\22-static-class-and-members.dll
+C:\Users\bhdrg\Desktop\csharp-basics\22-static-class-and-members\bin\Debug\net5.0\ref\22-static-class-and-members.dll
+C:\Users\bhdrg\Desktop\csharp-basics\22-static-class-and-members\bin\Debug\net5.0\22-static-class-and-members.pdb
+C:\Users\bhdrg\Desktop\csharp-basics\22-static-class-and-members\obj\Debug\net5.0\22-static-class-and-members.csproj.AssemblyReference.cache
+C:\Users\bhdrg\Desktop\csharp-basics\22-static-class-and-members\obj\Debug\net5.0\22-static-class-and-members.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhdrg\Desktop\csharp-basics\22-static-class-and-members\obj\Debug\net5.0\22-static-class-and-members.AssemblyInfoInputs.cache
+C:\Users\bhdrg\Desktop\csharp-basics\22-static-class-and-members\obj\Debug\net5.0\22-static-class-and-members.AssemblyInfo.cs
+C:\Users\bhdrg\Desktop\csharp-basics\22-static-class-and-members\obj\Debug\net5.0\22-static-class-and-members.csproj.CoreCompileInputs.cache
+C:\Users\bhdrg\Desktop\csharp-basics\22-static-class-and-members\obj\Debug\net5.0\22-static-class-and-members.dll
+C:\Users\bhdrg\Desktop\csharp-basics\22-static-class-and-members\obj\Debug\net5.0\ref\22-static-class-and-members.dll
+C:\Users\bhdrg\Desktop\csharp-basics\22-static-class-and-members\obj\Debug\net5.0\22-static-class-and-members.pdb
+C:\Users\bhdrg\Desktop\csharp-basics\22-static-class-and-members\obj\Debug\net5.0\22-static-class-and-members.genruntimeconfig.cache
