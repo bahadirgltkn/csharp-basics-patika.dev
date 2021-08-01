@@ -1,0 +1,16 @@
+C:\Users\bhdrg\Desktop\csharp-basics\23-structures\bin\Debug\net5.0\23-structures.exe
+C:\Users\bhdrg\Desktop\csharp-basics\23-structures\bin\Debug\net5.0\23-structures.deps.json
+C:\Users\bhdrg\Desktop\csharp-basics\23-structures\bin\Debug\net5.0\23-structures.runtimeconfig.json
+C:\Users\bhdrg\Desktop\csharp-basics\23-structures\bin\Debug\net5.0\23-structures.runtimeconfig.dev.json
+C:\Users\bhdrg\Desktop\csharp-basics\23-structures\bin\Debug\net5.0\23-structures.dll
+C:\Users\bhdrg\Desktop\csharp-basics\23-structures\bin\Debug\net5.0\ref\23-structures.dll
+C:\Users\bhdrg\Desktop\csharp-basics\23-structures\bin\Debug\net5.0\23-structures.pdb
+C:\Users\bhdrg\Desktop\csharp-basics\23-structures\obj\Debug\net5.0\23-structures.csproj.AssemblyReference.cache
+C:\Users\bhdrg\Desktop\csharp-basics\23-structures\obj\Debug\net5.0\23-structures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhdrg\Desktop\csharp-basics\23-structures\obj\Debug\net5.0\23-structures.AssemblyInfoInputs.cache
+C:\Users\bhdrg\Desktop\csharp-basics\23-structures\obj\Debug\net5.0\23-structures.AssemblyInfo.cs
+C:\Users\bhdrg\Desktop\csharp-basics\23-structures\obj\Debug\net5.0\23-structures.csproj.CoreCompileInputs.cache
+C:\Users\bhdrg\Desktop\csharp-basics\23-structures\obj\Debug\net5.0\23-structures.dll
+C:\Users\bhdrg\Desktop\csharp-basics\23-structures\obj\Debug\net5.0\ref\23-structures.dll
+C:\Users\bhdrg\Desktop\csharp-basics\23-structures\obj\Debug\net5.0\23-structures.pdb
+C:\Users\bhdrg\Desktop\csharp-basics\23-structures\obj\Debug\net5.0\23-structures.genruntimeconfig.cache
