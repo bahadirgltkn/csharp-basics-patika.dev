@@ -1,0 +1,16 @@
+C:\Users\bhdrg\Desktop\csharp-basics\21-encapsulation\bin\Debug\net5.0\21-encapsulation.exe
+C:\Users\bhdrg\Desktop\csharp-basics\21-encapsulation\bin\Debug\net5.0\21-encapsulation.deps.json
+C:\Users\bhdrg\Desktop\csharp-basics\21-encapsulation\bin\Debug\net5.0\21-encapsulation.runtimeconfig.json
+C:\Users\bhdrg\Desktop\csharp-basics\21-encapsulation\bin\Debug\net5.0\21-encapsulation.runtimeconfig.dev.json
+C:\Users\bhdrg\Desktop\csharp-basics\21-encapsulation\bin\Debug\net5.0\21-encapsulation.dll
+C:\Users\bhdrg\Desktop\csharp-basics\21-encapsulation\bin\Debug\net5.0\ref\21-encapsulation.dll
+C:\Users\bhdrg\Desktop\csharp-basics\21-encapsulation\bin\Debug\net5.0\21-encapsulation.pdb
+C:\Users\bhdrg\Desktop\csharp-basics\21-encapsulation\obj\Debug\net5.0\21-encapsulation.csproj.AssemblyReference.cache
+C:\Users\bhdrg\Desktop\csharp-basics\21-encapsulation\obj\Debug\net5.0\21-encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhdrg\Desktop\csharp-basics\21-encapsulation\obj\Debug\net5.0\21-encapsulation.AssemblyInfoInputs.cache
+C:\Users\bhdrg\Desktop\csharp-basics\21-encapsulation\obj\Debug\net5.0\21-encapsulation.AssemblyInfo.cs
+C:\Users\bhdrg\Desktop\csharp-basics\21-encapsulation\obj\Debug\net5.0\21-encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\bhdrg\Desktop\csharp-basics\21-encapsulation\obj\Debug\net5.0\21-encapsulation.dll
+C:\Users\bhdrg\Desktop\csharp-basics\21-encapsulation\obj\Debug\net5.0\ref\21-encapsulation.dll
+C:\Users\bhdrg\Desktop\csharp-basics\21-encapsulation\obj\Debug\net5.0\21-encapsulation.pdb
+C:\Users\bhdrg\Desktop\csharp-basics\21-encapsulation\obj\Debug\net5.0\21-encapsulation.genruntimeconfig.cache
