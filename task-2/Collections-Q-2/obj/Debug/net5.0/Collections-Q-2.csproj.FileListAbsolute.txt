@@ -1,0 +1,16 @@
+C:\Users\bhdrg\Desktop\csharp-basics\task-2\Collections-Q-2\bin\Debug\net5.0\Collections-Q-2.exe
+C:\Users\bhdrg\Desktop\csharp-basics\task-2\Collections-Q-2\bin\Debug\net5.0\Collections-Q-2.deps.json
+C:\Users\bhdrg\Desktop\csharp-basics\task-2\Collections-Q-2\bin\Debug\net5.0\Collections-Q-2.runtimeconfig.json
+C:\Users\bhdrg\Desktop\csharp-basics\task-2\Collections-Q-2\bin\Debug\net5.0\Collections-Q-2.runtimeconfig.dev.json
+C:\Users\bhdrg\Desktop\csharp-basics\task-2\Collections-Q-2\bin\Debug\net5.0\Collections-Q-2.dll
+C:\Users\bhdrg\Desktop\csharp-basics\task-2\Collections-Q-2\bin\Debug\net5.0\ref\Collections-Q-2.dll
+C:\Users\bhdrg\Desktop\csharp-basics\task-2\Collections-Q-2\bin\Debug\net5.0\Collections-Q-2.pdb
+C:\Users\bhdrg\Desktop\csharp-basics\task-2\Collections-Q-2\obj\Debug\net5.0\Collections-Q-2.csproj.AssemblyReference.cache
+C:\Users\bhdrg\Desktop\csharp-basics\task-2\Collections-Q-2\obj\Debug\net5.0\Collections-Q-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhdrg\Desktop\csharp-basics\task-2\Collections-Q-2\obj\Debug\net5.0\Collections-Q-2.AssemblyInfoInputs.cache
+C:\Users\bhdrg\Desktop\csharp-basics\task-2\Collections-Q-2\obj\Debug\net5.0\Collections-Q-2.AssemblyInfo.cs
+C:\Users\bhdrg\Desktop\csharp-basics\task-2\Collections-Q-2\obj\Debug\net5.0\Collections-Q-2.csproj.CoreCompileInputs.cache
+C:\Users\bhdrg\Desktop\csharp-basics\task-2\Collections-Q-2\obj\Debug\net5.0\Collections-Q-2.dll
+C:\Users\bhdrg\Desktop\csharp-basics\task-2\Collections-Q-2\obj\Debug\net5.0\ref\Collections-Q-2.dll
+C:\Users\bhdrg\Desktop\csharp-basics\task-2\Collections-Q-2\obj\Debug\net5.0\Collections-Q-2.pdb
+C:\Users\bhdrg\Desktop\csharp-basics\task-2\Collections-Q-2\obj\Debug\net5.0\Collections-Q-2.genruntimeconfig.cache
