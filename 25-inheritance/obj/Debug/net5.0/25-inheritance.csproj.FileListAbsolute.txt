@@ -1,0 +1,16 @@
+C:\Users\bhdrg\Desktop\csharp-basics\25-inheritance\obj\Debug\net5.0\25-inheritance.csproj.AssemblyReference.cache
+C:\Users\bhdrg\Desktop\csharp-basics\25-inheritance\obj\Debug\net5.0\25-inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhdrg\Desktop\csharp-basics\25-inheritance\obj\Debug\net5.0\25-inheritance.AssemblyInfoInputs.cache
+C:\Users\bhdrg\Desktop\csharp-basics\25-inheritance\obj\Debug\net5.0\25-inheritance.AssemblyInfo.cs
+C:\Users\bhdrg\Desktop\csharp-basics\25-inheritance\obj\Debug\net5.0\25-inheritance.csproj.CoreCompileInputs.cache
+C:\Users\bhdrg\Desktop\csharp-basics\25-inheritance\bin\Debug\net5.0\25-inheritance.exe
+C:\Users\bhdrg\Desktop\csharp-basics\25-inheritance\bin\Debug\net5.0\25-inheritance.deps.json
+C:\Users\bhdrg\Desktop\csharp-basics\25-inheritance\bin\Debug\net5.0\25-inheritance.runtimeconfig.json
+C:\Users\bhdrg\Desktop\csharp-basics\25-inheritance\bin\Debug\net5.0\25-inheritance.runtimeconfig.dev.json
+C:\Users\bhdrg\Desktop\csharp-basics\25-inheritance\bin\Debug\net5.0\25-inheritance.dll
+C:\Users\bhdrg\Desktop\csharp-basics\25-inheritance\bin\Debug\net5.0\ref\25-inheritance.dll
+C:\Users\bhdrg\Desktop\csharp-basics\25-inheritance\bin\Debug\net5.0\25-inheritance.pdb
+C:\Users\bhdrg\Desktop\csharp-basics\25-inheritance\obj\Debug\net5.0\25-inheritance.dll
+C:\Users\bhdrg\Desktop\csharp-basics\25-inheritance\obj\Debug\net5.0\ref\25-inheritance.dll
+C:\Users\bhdrg\Desktop\csharp-basics\25-inheritance\obj\Debug\net5.0\25-inheritance.pdb
+C:\Users\bhdrg\Desktop\csharp-basics\25-inheritance\obj\Debug\net5.0\25-inheritance.genruntimeconfig.cache
