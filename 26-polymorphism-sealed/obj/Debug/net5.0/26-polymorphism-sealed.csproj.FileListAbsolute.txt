@@ -1,0 +1,16 @@
+C:\Users\bhdrg\Desktop\csharp-basics\26-polymorphism-sealed\bin\Debug\net5.0\26-polymorphism-sealed.exe
+C:\Users\bhdrg\Desktop\csharp-basics\26-polymorphism-sealed\bin\Debug\net5.0\26-polymorphism-sealed.deps.json
+C:\Users\bhdrg\Desktop\csharp-basics\26-polymorphism-sealed\bin\Debug\net5.0\26-polymorphism-sealed.runtimeconfig.json
+C:\Users\bhdrg\Desktop\csharp-basics\26-polymorphism-sealed\bin\Debug\net5.0\26-polymorphism-sealed.runtimeconfig.dev.json
+C:\Users\bhdrg\Desktop\csharp-basics\26-polymorphism-sealed\bin\Debug\net5.0\26-polymorphism-sealed.dll
+C:\Users\bhdrg\Desktop\csharp-basics\26-polymorphism-sealed\bin\Debug\net5.0\ref\26-polymorphism-sealed.dll
+C:\Users\bhdrg\Desktop\csharp-basics\26-polymorphism-sealed\bin\Debug\net5.0\26-polymorphism-sealed.pdb
+C:\Users\bhdrg\Desktop\csharp-basics\26-polymorphism-sealed\obj\Debug\net5.0\26-polymorphism-sealed.csproj.AssemblyReference.cache
+C:\Users\bhdrg\Desktop\csharp-basics\26-polymorphism-sealed\obj\Debug\net5.0\26-polymorphism-sealed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhdrg\Desktop\csharp-basics\26-polymorphism-sealed\obj\Debug\net5.0\26-polymorphism-sealed.AssemblyInfoInputs.cache
+C:\Users\bhdrg\Desktop\csharp-basics\26-polymorphism-sealed\obj\Debug\net5.0\26-polymorphism-sealed.AssemblyInfo.cs
+C:\Users\bhdrg\Desktop\csharp-basics\26-polymorphism-sealed\obj\Debug\net5.0\26-polymorphism-sealed.csproj.CoreCompileInputs.cache
+C:\Users\bhdrg\Desktop\csharp-basics\26-polymorphism-sealed\obj\Debug\net5.0\26-polymorphism-sealed.dll
+C:\Users\bhdrg\Desktop\csharp-basics\26-polymorphism-sealed\obj\Debug\net5.0\ref\26-polymorphism-sealed.dll
+C:\Users\bhdrg\Desktop\csharp-basics\26-polymorphism-sealed\obj\Debug\net5.0\26-polymorphism-sealed.pdb
+C:\Users\bhdrg\Desktop\csharp-basics\26-polymorphism-sealed\obj\Debug\net5.0\26-polymorphism-sealed.genruntimeconfig.cache
